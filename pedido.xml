@@ -1,7 +1,7 @@
 <?xml version="1.0" encouring="utf-8" ?>
 <pedido numero= "1">
   <cliente>Paco Ruiz</cliente>
-  <h1>Clientes</h1>
+  <h1>Cambio una cosa de la rama principal</h1>
   <p>Esto es un cambio en la rama 1</p>
   <p>Este es el segundo cambio</p>
 </pedido>
