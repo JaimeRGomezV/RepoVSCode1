@@ -1,4 +1,5 @@
 <?xml version="1.0" encouring="utf-8" ?>
 <pedido numero= "1">
   <cliente>Paco Ruiz</cliente>
+  <h1>Clientes</h1>
 </pedido>
